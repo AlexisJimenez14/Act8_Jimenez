@@ -1,19 +1,12 @@
 # Act8_Jimenez
 
-A new Flutter project created with FlutLab - https://flutlab.io
+- primera pagina
+- ![image](https://github.com/user-attachments/assets/dfe5df6c-4497-4e4d-9390-2a316ebf238d)
+- segunda paginas (Pagina principal)
+- ![image](https://github.com/user-attachments/assets/32a77ecb-0697-4902-8767-2583aa091219)
+ ![image](https://github.com/user-attachments/assets/ff333e91-c2e5-4256-8770-2cad772bdcea)
+- Tercera Pagina (Pagina de venta)
+- ![image](https://github.com/user-attachments/assets/8027b7b0-7be2-4746-b8d2-96460906f8ad)
+ ![image](https://github.com/user-attachments/assets/ae082a0f-f801-4acd-b555-f3902108f088)
 
-## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
